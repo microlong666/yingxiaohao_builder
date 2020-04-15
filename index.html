@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Bootstrap v4.4.1 (https://getbootstrap.com/)-->
+    <link rel="stylesheet" type="style/css" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.css">
+    <link rel="stylesheet" type="style/css" href="main.css">
+    <link rel="icon" href="ico/favicon.ico">
+    <script src="js/main.js"></script>
+    <title>营销号生成器</title>
+</head>
+
+<body onload="onload()">
+    <div class="container">
+        <h1>营销号生成器</h1>
+        <div class="row">
+            <div class="col-sm-5 col-xs-12">
+                <form action="javascript:void(0);" autocomplete="off">
+                    <div class="form-group">
+                        <lable for="subject">主体：</lable>
+                        <input type="text" id="subject" class="form-control" placeholder="营销号" required />
+                    </div>
+                    <div class="form-group">
+                        <lable for="event">事件：</lable>
+                        <input type="text" id="event" class="form-control" placeholder="🐴死了" required />
+                    </div>
+                    <div class="form-group">
+                        <lable for="event2">另一种说法：</lable>
+                        <input type="text" id="event2" class="form-control" placeholder="营销号没🐴" required />
+                    </div>
+                    <input type="submit" value="生成" class="btn btn-primary" onclick="generate()" />
+                </form>
+            </div>
+            <div>
+                <div class="col-sm-7 col-xs-12">
+                    <textarea id="result" onchange="auto_grow(this)" oninput="auto_grow(this)"
+                        placeholder="　　营销号🐴死了是怎么回事呢？营销号相信大家都很熟悉，但是营销号🐴死了是怎么回事呢，下面就让小编带大家一起了解吧。&#013;&#010;　　营销号🐴死了，其实就是营销号没🐴，大家可能会很惊讶营销号怎么会🐴死了呢？但事实就是这样，小编也感到非常惊讶。&#013;&#010;　　这就是关于营销号🐴死了的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div id="footer">
+        Made by: <a href="https://codepen.io/kasei-dis">kasei</a> | <a href="https://blog.microloong.xyz">MicroLOONG's
+            Blog</a>
+        <br />
+    </div>
+</body>
+
+</html>
