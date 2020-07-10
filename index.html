@@ -30,6 +30,9 @@
             <p>
                 <span>另一种说法:</span>
                 <input id="fact"></input>
+            </p>
+            <p>
+                <button onclick="resetbtn()">清空</button>
                 <button onclick="生成文章()">生成</button>
             </p>
         </div>
@@ -255,6 +258,14 @@
     $('#predicate').value = 事件;
     $('#fact').value = 另一种说法;
 
+    function resetbtn() {
+        document.getElementById("number").value = "";
+        document.getElementById("subject").value = "";
+        document.getElementById("predicate").value = "";
+        document.getElementById("fact").value = "";
+        document.getElementById("文章").innerHTML = "";
+    }
+
     function 同余发生器() {
         随机种子 = (随机种子 * 同余乘数 + 同余加数) % 同余模;
         return 随机种子 / 同余模;
@@ -385,7 +396,7 @@
 
         #主题 input {
             border: none;
-            border-bottom: #666666 2px solid;
+            border-bottom: #666666 1.5px solid;
             padding: 1px 0 0 0;
             margin: 0 0 10px 10px;
             vertical-align: baseline;
@@ -393,13 +404,13 @@
             background: #f8f8f8;
             color: #333333;
             text-align: center;
-            min-width: 10%;
+            max-width: 40%;
         }
 
         #主题 button {
             border: 0;
             padding: 3px 7px 3px 7px;
-            margin: 0 0 0 10px;
+            margin: 10px;
             vertical-align: baseline;
             text-align: center;
             font-size: 1.4rem;
@@ -500,7 +511,7 @@
         #主题 button {
             border: 0;
             padding: 5px 15px 5px 15px;
-            margin: 0;
+            margin: 20px;
             vertical-align: center;
             text-align: center;
             font-size: 0.75rem;
