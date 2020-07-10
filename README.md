@@ -14,11 +14,13 @@
 
 ### 对比 v1.0
 
-* 合并 CSS 和 JavaScript 到 HTML ，方便部署到任何地方
+* [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0) 合并 CSS 和 JavaScript 到 HTML ，方便部署到任何地方
 
-* 更换文字源，丰富文章内容
+* [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0) 更换文字源，丰富文章内容
 
-* 随机显示各种沙雕的标题
+* [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0) 随机显示各种沙雕的标题
+
+* [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.1) 增加一键清空内容按钮
 
 ### 使用
 
