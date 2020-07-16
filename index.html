@@ -390,8 +390,11 @@
         }
 
         #主题 span {
+            width: 90px;
+            display: inline-block;
             font-size: 2rem;
             vertical-align: baseline;
+            text-align: right;
         }
 
         #主题 input {
@@ -408,14 +411,22 @@
         }
 
         #主题 button {
+            cursor: pointer;
             border: 0;
+            border-radius: 3px;
+            box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 4px;
             padding: 3px 7px 3px 7px;
-            margin: 10px;
+            margin: 10px 20px 10px 20px;
             vertical-align: baseline;
             text-align: center;
             font-size: 1.4rem;
             background: #454545;
             color: #efefef;
+        }
+
+        #主题 button:active {
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
         }
 
         #文章 div {
@@ -491,8 +502,11 @@
         }
 
         #主题 span {
+            width: 120px;
+            display: inline-block;
             font-size: 1rem;
             vertical-align: baseline;
+            text-align: right;
         }
 
         #主题 input {
@@ -509,7 +523,10 @@
         }
 
         #主题 button {
+            cursor: pointer;
             border: 0;
+            border-radius: 3px;
+            box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 4px;
             padding: 5px 15px 5px 15px;
             margin: 20px;
             vertical-align: center;
@@ -517,6 +534,12 @@
             font-size: 0.75rem;
             background: #454545;
             color: #efefef;
+            transition: all 0.2s ease 0s;
+        }
+
+        #主题 button:hover {
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
         }
 
         #文章 div {

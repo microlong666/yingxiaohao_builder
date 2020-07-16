@@ -14,13 +14,15 @@
 
 ### 对比 v1.0
 
-* 合并 CSS 和 JavaScript 到 HTML ，方便部署到任何地方 [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0)
+* 合并 CSS 和 JavaScript 到 HTML ，方便部署到任何地方   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0)
 
-* 更换文字源，丰富文章内容 [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0)
+* 更换文字源，丰富文章内容   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0)
 
-* 随机显示各种沙雕的标题 [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0)
+* 随机显示各种沙雕的标题   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.0-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.0)
 
-* 增加一键清空内容按钮 [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.1-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.1)
+* 增加一键清空内容按钮   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.1-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.1)
+
+* 声明页返回后原页面数据将得到保留   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.1-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.2)
 
 ### 使用
 
