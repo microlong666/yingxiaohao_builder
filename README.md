@@ -23,7 +23,7 @@
 
 * 增加一键清空内容按钮   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.1-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.1)
 
-* 声明页返回后原页面数据将得到保留   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.1-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.2)
+* 声明页返回后原页面数据将得到保留   [![GitHub release (latest by date)](https://img.shields.io/badge/release-v2.2-blue?logo=github)](https://github.com/microlong666/yingxiaohao_builder/releases/tag/v2.2)
 
 ### 使用
 
