@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/microlong666/yingxiaohao_builder/tree/master.svg?style=svg)](https://circleci.com/gh/microlong666/yingxiaohao_builder/tree/master)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-support-success?logo=github)](https://microloong.xyz/yingxiaohao_builder/)
 
 # 沙雕营销号文案生成器
 
